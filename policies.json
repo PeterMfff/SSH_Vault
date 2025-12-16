@@ -1,0 +1,17 @@
+[
+  {
+    "user": "bob",
+    "role": "admin-role",
+    "targets": ["*"]
+  },
+  {
+    "user": "alice",
+    "role": "dev-role",
+    "targets": ["192.168.107.131"]
+  },
+  {
+    "user": "minh",
+    "role": "dev-role",
+    "targets": ["192.168.107.131", "10.0.0.50"]
+  }
+]

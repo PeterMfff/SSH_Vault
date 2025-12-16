@@ -1,0 +1,16 @@
+{"ts":1765892946423,"type":"meta","v":{"remote":"127.0.0.1:51368","start":"2025-12-16T20:49:06+07:00","target":"192.168.107.131","user":"bob"}}
+{"ts":1765892946423,"type":"event","v":"session-start"}
+{"ts":1765892946423,"type":"stdout","v":"V2VsY29tZSB0byBVYnVudHUgMjIuMDQuNSBMVFMgKEdOVS9MaW51eCA2LjguMC03OS1nZW5lcmljIHg4Nl82NCkNCg0KICogRG9jdW1lbnRhdGlvbjogIGh0dHBzOi8vaGVscC51YnVudHUuY29tDQogKiBNYW5hZ2VtZW50OiAgICAgaHR0cHM6Ly9sYW5kc2NhcGUuY2Fub25pY2FsLmNvbQ0KICogU3VwcG9ydDogICAgICAgIGh0dHBzOi8vdWJ1bnR1LmNvbS9wcm8NCg0KRXhwYW5kZWQgU2VjdXJpdHkgTWFpbnRlbmFuY2UgZm9yIEFwcGxpY2F0aW9ucyBpcyBub3QgZW5hYmxlZC4NCg0KMTE1IHVwZGF0ZXMgY2FuIGJlIGFwcGxpZWQgaW1tZWRpYXRlbHkuDQo3OSBvZiB0aGVzZSB1cGRhdGVzIGFyZSBzdGFuZGFyZCBzZWN1cml0eSB1cGRhdGVzLg0KVG8gc2VlIHRoZXNlIGFkZGl0aW9uYWwgdXBkYXRlcyBydW46IGFwdCBsaXN0IC0tdXBncmFkYWJsZQ0KDQpFbmFibGUgRVNNIEFwcHMgdG8gcmVjZWl2ZSBhZGRpdGlvbmFsIGZ1dHVyZSBzZWN1cml0eSB1cGRhdGVzLg0KU2VlIGh0dHBzOi8vdWJ1bnR1LmNvbS9lc20gb3IgcnVuOiBzdWRvIHBybyBzdGF0dXMNCg0KTmV3IHJlbGVhc2UgJzI0LjA0LjMgTFRTJyBhdmFpbGFibGUuDQpSdW4gJ2RvLXJlbGVhc2UtdXBncmFkZScgdG8gdXBncmFkZSB0byBpdC4NCg0KTGFzdCBsb2dpbjogVHVlIERlYyAxNiAyMDo0MzoyMyAyMDI1IGZyb20gMTkyLjE2OC4xMDcuMTQwDQ0K"}
+{"ts":1765892946474,"type":"stdout","v":"G1s/MjAwNGgbXTA7cm9vdEB3YXp1aHNlcnZlci12aXJ0dWFsLW1hY2hpbmU6IH4Hcm9vdEB3YXp1aHNlcnZlci12aXJ0dWFsLW1hY2hpbmU6fiMg"}
+{"ts":1765892949615,"type":"stdin","v":"ZQ=="}
+{"ts":1765892949619,"type":"stdout","v":"ZQ=="}
+{"ts":1765892949917,"type":"stdin","v":"eA=="}
+{"ts":1765892949918,"type":"stdout","v":"eA=="}
+{"ts":1765892950081,"type":"stdin","v":"aQ=="}
+{"ts":1765892950082,"type":"stdout","v":"aQ=="}
+{"ts":1765892950248,"type":"stdin","v":"dA=="}
+{"ts":1765892950250,"type":"stdout","v":"dCAN"}
+{"ts":1765892950500,"type":"stdin","v":"DQ=="}
+{"ts":1765892950501,"type":"stdout","v":"G1tBG1tDG1tDG1tDG1tDG1tDG1tDG1tDG1tDG1tDG1tDG1tDG1tDG1tDG1tDG1tDG1tDG1tDG1tDG1tDG1tDG1tDG1tDG1tDG1tDG1tDG1tDG1tDG1tDG1tDG1tDG1tDG1tDG1tDG1tDG1tDG1tDG1tDG1tDG1tDG1tLdA0KG1s/MjAwNGwN"}
+{"ts":1765892950502,"type":"stdout","v":"bG9nb3V0DQo="}
+{"ts":1765892954698,"type":"stdin","v":"Aw=="}
